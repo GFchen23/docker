@@ -17,3 +17,4 @@ FROM centos
 RUN yum install -y curl
 
 ENTRYPOINT [ "curl", "-s", "http://ip.cn" ]
+#use github and pull back
