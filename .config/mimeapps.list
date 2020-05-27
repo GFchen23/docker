@@ -1,0 +1,4 @@
+[Added Associations]
+text/x-apt-sources-list=org.gnome.gedit.desktop;
+application/x-sharedlib=org.gnome.gedit.desktop;
+application/vnd.ms-publisher=org.gnome.gedit.desktop;
